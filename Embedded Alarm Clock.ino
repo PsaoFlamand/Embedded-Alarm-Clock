@@ -11,6 +11,7 @@
 #include <Wire.h>
 #include <OPT3001.h>
 #include <Adafruit_TMP006.h>
+#include <string>
 
 Adafruit_TMP006 tempSensor;
 //Define instances
